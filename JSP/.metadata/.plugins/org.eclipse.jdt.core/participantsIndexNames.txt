@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\New folder 5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\51547699.index
+\JSP - Directives\src\main\java
+D:\New folder 5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\9662759.index
+\JSP - Creating a simple JSP Page\src\main\java
+D:\New folder 5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\112960376.index
+\JSP - Session Handling\src\main\java

@@ -1,0 +1,14 @@
+<%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<%@ page FILE="include.jsp"%>
+	 <c:forEach var="i" begin="1" end="10">
+	 out.println(i);
+	 </c:forEach>
+</body>
+</html>

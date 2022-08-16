@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<%
+	out.println("Printing from 0 to 9");
+	for(int i=0;i<10;i++){
+		out.println("<h3>"+i+"</h3><br>");
+	}
+	%>
+</body>
+</html>
